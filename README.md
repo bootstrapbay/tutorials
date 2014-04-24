@@ -13,3 +13,6 @@ YouTube Channel: https://www.youtube.com/channel/UCQ7erinMCeODr6XdPknmj7w
 <h4>Part 1 - Introduction and Installation</h4>
 <p>We give an overview of what Bootstrap is and a detailed guide on how to install it.</p>
 
+<h4>Part 2 - Responsive NavBar with Dropdown Menus</h4>
+<p>We build a responsive navbar with dropdown menus</p>
+
