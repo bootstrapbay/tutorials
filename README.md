@@ -19,4 +19,7 @@ YouTube Channel: https://www.youtube.com/channel/UCQ7erinMCeODr6XdPknmj7w
 <h4>Part 3 - Fixed Footer</h4>
 <p>We build a fixed footer</p>
 
+<h4>Part 4 - Font Awesome & Social Icons</h4>
+<p>We show you how to install Font Awesome and how to add social icons to your website's footer</p>
+
 
