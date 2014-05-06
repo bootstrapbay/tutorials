@@ -25,4 +25,6 @@ YouTube Channel: https://www.youtube.com/channel/UCQ7erinMCeODr6XdPknmj7w
 <h4>Part 5 - Jumbotron</h4>
 <p>We show you how to build a jumbotron and make important content on your website really standaout.</p>
 
+<h4>Part 6 - Grid System</h4>
+<p>We explain the Bootstrap grid system and show you how to add columns of text to your website that collapse appropriately.</p>
 
