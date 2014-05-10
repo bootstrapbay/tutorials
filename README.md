@@ -28,3 +28,5 @@ YouTube Channel: https://www.youtube.com/channel/UCQ7erinMCeODr6XdPknmj7w
 <h4>Part 6 - Grid System</h4>
 <p>We explain the Bootstrap grid system and show you how to add columns of text to your website that collapse appropriately.</p>
 
+<h4>Part 7 - Modal</h4>
+<p>We build a modal (pop-up box) for the website. Modals are streamlined, but flexible, dialog prompts with the minimum required functionality and smart defaults.</p>
