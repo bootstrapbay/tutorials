@@ -30,3 +30,6 @@ YouTube Channel: https://www.youtube.com/channel/UCQ7erinMCeODr6XdPknmj7w
 
 <h4>Part 7 - Modal</h4>
 <p>We build a modal (pop-up box) for the website. Modals are streamlined, but flexible, dialog prompts with the minimum required functionality and smart defaults.</p>
+
+<h4>Part 8 - Thumbnails</h4>
+<p>We extend Bootstrap's grid system with the thumbnail component to easily display grids of images for our themes.</h4>
