@@ -33,3 +33,6 @@ YouTube Channel: https://www.youtube.com/channel/UCQ7erinMCeODr6XdPknmj7w
 
 <h4>Part 8 - Thumbnails</h4>
 <p>We extend Bootstrap's grid system with the thumbnail component to easily display grids of images for our themes.</h4>
+
+<h4>Part 9 - Google Web Fonts</h4>
+<p>We add Google web fonts to our Bootstrap website. Google web fonts are free, open-source fonts optimized for the web. The API service runs on Google's servers which are fast, reliable and tested. Google provides this service free of charge.</p>
