@@ -36,3 +36,6 @@ YouTube Channel: https://www.youtube.com/channel/UCQ7erinMCeODr6XdPknmj7w
 
 <h4>Part 9 - Google Web Fonts</h4>
 <p>We add Google web fonts to our Bootstrap website. Google web fonts are free, open-source fonts optimized for the web. The API service runs on Google's servers which are fast, reliable and tested. Google provides this service free of charge.</p>
+
+<h4>Part 10 - Contact Form</h4>
+<p>We built a contact form within our modal. We use Bootstrap's predefined grid classes to align labels and groups of form controls in a horizontal layout by adding .form-horizontal to the form. Doing so changes .form-groups to behave as grid rows, so no need for .row.</p>
