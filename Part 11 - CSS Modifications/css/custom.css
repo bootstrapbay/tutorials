@@ -1,0 +1,43 @@
+.navbar-text > a {
+	color: inherit;
+	text-decoration: none;
+}
+
+body {
+	padding-top: 70px;
+	padding-bottom: 100px;
+}
+
+p {
+	font-family: 'Open Sans', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Oswald', sans-serif;
+}
+
+
+
+
+
+
+/*
+
+Navy Blue: #2C3E50;
+Navy Blue Active: #1A242F;
+Turquoise: #18BC9C;
+White: #FFFFFF;
+
+BTN Primary: #2C3E50
+BTN Primary Hover: #1E2A36;
+BTN Primary Hover Boarder: #161F29;
+
+BTN Success: #18BC9C;
+BTN Success Hover: #13987E;
+BTN Success Hover Boarder: #11866F;
+
+BTN Default: #95A5A6;
+BTN Default Hover: #7F9293;
+BTN Default Hover Background: #74898A;
+
+*/
