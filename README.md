@@ -39,3 +39,6 @@ YouTube Channel: https://www.youtube.com/channel/UCQ7erinMCeODr6XdPknmj7w
 
 <h4>Part 10 - Contact Form</h4>
 <p>We built a contact form within our modal. We use Bootstrap's predefined grid classes to align labels and groups of form controls in a horizontal layout by adding .form-horizontal to the form. Doing so changes .form-groups to behave as grid rows, so no need for .row.</p>
+
+<h4>Part 11 - CSS Modifications</h4>
+<p>In this installment of our Bootstrap 3 tutorial, we add some custom CSS modifications to the common Bootstrap elements including the navbar, navbar links and buttons.<p>
