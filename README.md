@@ -42,3 +42,6 @@ YouTube Channel: https://www.youtube.com/channel/UCQ7erinMCeODr6XdPknmj7w
 
 <h4>Part 11 - CSS Modifications</h4>
 <p>In this installment of our Bootstrap 3 tutorial, we add some custom CSS modifications to the common Bootstrap elements including the navbar, navbar links and buttons.<p>
+
+<h4>Part 12 - CSS Transform and Transition</h4>
+<p>In this part of our Bootstrap 3 tutorial, we apply the CSS transform and transition effects to our thumbnail images to spice up the website. We use a transform scale of 1.1 and we use an ease transition of 0.3 seconds.<p>
