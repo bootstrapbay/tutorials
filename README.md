@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 BootstrapBay Tutorial Source Files
 =========
 
@@ -47,13 +46,13 @@ YouTube Channel: https://www.youtube.com/channel/UCQ7erinMCeODr6XdPknmj7w
 <h4>Part 12 - CSS Modifications</h4>
 <p>In this part of our Bootstrap 3 tutorial, we apply the CSS transform and transition effects to our thumbnail images to spice up the website. We use a transform scale of 1.1 and we use an ease transition of 0.3 seconds.</p>
 
-<h4>Part 13 Ð Adding a New Page</h4>
+<h4>Part 13 ï¿½ Adding a New Page</h4>
 <p>In this part of our Bootstrap 3 tutorial, we add a new page to our Bootstrap site to showcase the themes. We then link the page to our homepage and vice versa.</p>
 
-<h4>Part 14 Ð Building the Theme Page</h4>
+<h4>Part 14 ï¿½ Building the Theme Page</h4>
 <p>In this part of our Bootstrap 3 tutorial, we start building the theme page. The page contains a page header, a thumbnail with an image preview and caption, a description of the theme and a features list using an unordered list.</p>
 
-<h4>Part 15 Ð Sidebar, Panels & Tables</h4>
+<h4>Part 15 ï¿½ Sidebar, Panels & Tables</h4>
 <p>In this part of our Bootstrap 3 tutorial, we build a sidebar for the theme page. The sidebar uses default panel classes with custom background colors as well as a bordered and lined table.</p>
 
 
@@ -107,4 +106,3 @@ YouTube Channel: https://www.youtube.com/channel/UCQ7erinMCeODr6XdPknmj7w
 
 <h4>Part 12 - CSS Transform and Transition</h4>
 <p>In this part of our Bootstrap 3 tutorial, we apply the CSS transform and transition effects to our thumbnail images to spice up the website. We use a transform scale of 1.1 and we use an ease transition of 0.3 seconds.<p>
->>>>>>> FETCH_HEAD
