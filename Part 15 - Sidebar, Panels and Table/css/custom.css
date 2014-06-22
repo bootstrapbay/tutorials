@@ -1,0 +1,122 @@
+.navbar-text > a {
+	color: inherit;
+	text-decoration: none;
+}
+
+body {
+	padding-top: 70px;
+	padding-bottom: 100px;
+}
+
+p {
+	font-family: 'Open Sans', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Oswald', sans-serif;
+}
+
+.navbar-default {
+	background-color: #2C3E50;
+	border-color: #FFFFFF;
+	color: #FFFFFF;
+}
+
+.navbar-default .navbar-brand {
+	color: #FFFFFF;
+}
+
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+	color: #18BC9C;
+	background-color: transparent;
+}
+
+.navbar-default .navbar-nav > li > a {
+	color: #FFFFFF;
+}
+
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+	color: #FFFFFF;
+	background-color: #1A242F;
+}
+
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+	color: #18BC9C;
+	background-color: transparent;
+}
+
+.navbar-default .navbar-nav > .open > a,
+.navbar-default .navbar-nav > .open > a:hover,
+.navbar-default .navbar-nav > .open > a:focus {
+	background-color: #1A242F;
+	color: #FFFFFF;
+}
+
+.btn-primary {
+	background-color: #2C3E50;
+	border-color: #2C3E50;
+	color: #FFFFFF;
+}
+
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active,
+.btn-primary.active,
+.open .dropdown-toggle.btn-primary {
+	color: #FFFFFF;
+	background-color: #1E2A36;
+	border-color: #161F29; 
+}
+
+.btn-success {
+	background-color: #18BC9C;
+	border-color: #18BC9C;
+	color: #FFFFFF;
+}
+
+.btn-success:hover,
+.btn-success:focus,
+.btn-success:active,
+.btn-success.active,
+.open .dropdown-toggle.btn-success {
+	color: #FFFFFF;
+	background-color: #13987E;
+	border-color: #13987E; 
+}
+
+.btn-default {
+	background-color: #95A5A6;
+	border-color: #95A5A6;
+	color: #FFFFFF;
+}
+
+.btn-default:hover,
+.btn-default:focus,
+.btn-default:active,
+.btn-default.active,
+.open .dropdown-toggle.btn-success {
+	color: #FFFFFF;
+	background-color: #7F9293;
+	border-color: #74898A;
+}
+
+.home-thumb img:hover {
+	transform: scale(1.1);
+}
+
+.thumbnail img {
+	transition: all 0.3s ease 0s;
+	width: 100%;
+}
+
+.thumbnail {
+	overflow: hidden;
+}
+
+.bg-grey {
+	background-color: #f9f9f9;
+}

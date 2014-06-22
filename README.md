@@ -1,7 +1,7 @@
 BootstrapBay Tutorial Source Files
 =========
 
-This page will be used to host the source files for our Bootstrap tutorials on YouTube. Each folder represents a seperate tutorial. 
+This page will be used to host the source files for our Bootstrap tutorials on YouTube. Each folder represents a separate tutorial. 
 
 <h2>Links</h2>
 Home Page: http://bootstrapbay.com <br/>
@@ -23,7 +23,7 @@ YouTube Channel: https://www.youtube.com/channel/UCQ7erinMCeODr6XdPknmj7w
 <p>We show you how to install Font Awesome and how to add social icons to your website's footer. Font Awesome gives you scalable vector icons that can instantly be customized â€” size, color, drop shadow, and anything that can be done with the power of CSS. </p>
 
 <h4>Part 5 - Jumbotron</h4>
-<p>We show you how to build a jumbotron and make important content on your website really standaout. A jumbotron is a A lightweight, flexible component that can optionally extend the entire viewport to showcase key content on your site.</p>
+<p>We show you how to build a jumbotron and make important content on your website really standout. A jumbotron is a A lightweight, flexible component that can optionally extend the entire viewport to showcase key content on your site.</p>
 
 <h4>Part 6 - Grid System</h4>
 <p>We explain the Bootstrap grid system and show you how to add columns of text to your website that collapse appropriately. Bootstrap includes a responsive, mobile first fluid grid system that appropriately scales up to 12 columns as the device or viewport size increases. It includes predefined classes for easy layout options, as well as powerful mixins for generating more semantic layouts.</p>
@@ -42,3 +42,19 @@ YouTube Channel: https://www.youtube.com/channel/UCQ7erinMCeODr6XdPknmj7w
 
 <h4>Part 11 - CSS Modifications</h4>
 <p>In this installment of our Bootstrap 3 tutorial, we add some custom CSS modifications to the common Bootstrap elements including the navbar, navbar links and buttons.<p>
+
+<h4>Part 12 - CSS Modifications</h4>
+<p>In this part of our Bootstrap 3 tutorial, we apply the CSS transform and transition effects to our thumbnail images to spice up the website. We use a transform scale of 1.1 and we use an ease transition of 0.3 seconds.</p>
+
+<h4>Part 13 Ð Adding a New Page</h4>
+<p>In this part of our Bootstrap 3 tutorial, we add a new page to our Bootstrap site to showcase the themes. We then link the page to our homepage and vice versa.</p>
+
+<h4>Part 14 Ð Building the Theme Page</h4>
+<p>In this part of our Bootstrap 3 tutorial, we start building the theme page. The page contains a page header, a thumbnail with an image preview and caption, a description of the theme and a features list using an unordered list.</p>
+
+<h4>Part 15 Ð Sidebar, Panels & Tables</h4>
+<p>In this part of our Bootstrap 3 tutorial, we build a sidebar for the theme page. The sidebar uses default panel classes with custom background colors as well as a bordered and lined table.</p>
+
+
+
+
